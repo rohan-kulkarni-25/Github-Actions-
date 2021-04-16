@@ -1,0 +1,2 @@
+- name: Extract text from labels
+  uses: martins-vds/extract-text-from-labels-action@v0.0.1-alpha
